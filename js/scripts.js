@@ -55,15 +55,15 @@
 
 
 
-	$('.popup-youtube').magnificPopup({
-		disableOn: 700,
-		type: 'iframe',
-		mainClass: 'mfp-with-zoom',
-		removalDelay: 160,
-		preloader: false,
+	// $('.popup-youtube').magnificPopup({
+	// 	disableOn: 700,
+	// 	type: 'iframe',
+	// 	mainClass: 'mfp-with-zoom',
+	// 	removalDelay: 160,
+	// 	preloader: false,
 
-		fixedContentPos: false
-	});
+	// 	fixedContentPos: false
+	// });
 
 
 	/*-------------------------------------------------------------------------------
