@@ -1788,11 +1788,12 @@ a.brand:focus{
 
 .author-name{
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.125rem;
+  font-size: 2rem;
   text-transform: uppercase;
   line-height: 1.333;
   font-weight: 600;
   margin-bottom: 0.5rem;
+  padding-left: 3rem;
 }
 
 .review-carousel .owl-nav{
@@ -2114,6 +2115,14 @@ a.brand:focus{
   
 }
 
-
+.partner-inner{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap; 
+}
+.partner-inner img {
+  width: 100%; /* Images scale to fit container width */
+}
 
 
