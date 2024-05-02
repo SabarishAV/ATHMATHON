@@ -1,0 +1,19 @@
+2024-05-02 16:25:08.474 +05:30 [WRN] Config file Legacinator.ini not found or not readable
+2024-05-02 16:25:08.517 +05:30 [INF] Running with parent process: System.Diagnostics.Process (brave)
+2024-05-02 16:25:09.178 +05:30 [INF] Checking for updates, preparing web request
+2024-05-02 16:25:12.074 +05:30 [DBG] Latest tag name: v1.12.0
+2024-05-02 16:25:12.080 +05:30 [INF] Starting complete scan
+2024-05-02 16:25:12.634 +05:30 [INF] Starting refresh of all component detection
+2024-05-02 16:25:12.763 +05:30 [INF] Refreshing phantom devices
+2024-05-02 16:25:13.049 +05:30 [INF] Phantom device refreshing done
+2024-05-02 16:25:13.066 +05:30 [INF] Running HidGuardian detection
+2024-05-02 16:25:13.166 +05:30 [INF] Done
+2024-05-02 16:25:13.167 +05:30 [INF] Running SCP detection
+2024-05-02 16:25:13.169 +05:30 [INF] Done
+2024-05-02 16:25:13.174 +05:30 [INF] Running ViGEmBus detection
+2024-05-02 16:25:13.181 +05:30 [INF] Done
+2024-05-02 16:25:13.249 +05:30 [INF] Running HidHide detection
+2024-05-02 16:25:13.254 +05:30 [INF] Done
+2024-05-02 16:25:13.256 +05:30 [INF] Running BthPS3 detection
+2024-05-02 16:25:13.256 +05:30 [INF] Done
+2024-05-02 16:25:15.675 +05:30 [INF] Finished refresh of all component detection, found 0 issues

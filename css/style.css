@@ -2134,4 +2134,11 @@ a.brand:focus{
   color: purple;
   background-color: white;
 }
-
+@media only screen and (max-width: 768px) {
+  #roadmapp{
+    background-image: url("../images/bg/verticalmile.png") !important;
+    /* background-size: contain; */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+  }
+}
